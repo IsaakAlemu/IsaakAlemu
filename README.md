@@ -109,11 +109,4 @@ Netflix catalog trends via SQL and Python — content type distribution, genre p
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IsaakAlemu&show_icons=true&theme=default&hide_title=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaakAlemu&layout=compact&hide_title=true" height="165" />
-</p>
-
 <p align="center"><i>Open to internships and collaborations in ML/AI and data science.</i></p>
