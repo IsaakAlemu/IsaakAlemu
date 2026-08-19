@@ -1,112 +1,131 @@
-<h1 align="center">Hi, I'm Isaak 👋</h1>
+<div align="center">
+
+# Hi, I'm Isaak Alemu 👋
+### Computer Science Student @ Addis Ababa University · AI & Machine Learning Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaak_Alemu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaak-alemu-492414329)
+[![GitHub](https://img.shields.io/badge/GitHub-IsaakAlemu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaakAlemu)
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaak.alemu.cs@gmail.com)
 
 <p align="center">
-CS student at Addis Ababa University · Building toward an ML/AI engineering career
+  <b>Building end-to-end Machine Learning, Graph Neural Networks, and Generative AI systems.</b><br/>
+  INSA Ethiopia Summer Camp (Emerging AI Track) · Stanford / DeepLearning.AI ML Specialization
 </p>
 
-<p align="center">
-🟢 Currently building a RAG project &nbsp;|&nbsp; 📊 Data science & ML portfolio &nbsp;|&nbsp; 🤝 Open to internships & collaborations
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/isaak-alemu-492414329">
-<img src="https://img.shields.io/badge/LinkedIn-Isaak_Alemu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/IsaakAlemu">
-<img src="https://img.shields.io/badge/GitHub-IsaakAlemu-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
+</div>
 
 ---
 
-### 🛠️ Skills
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-025B8C?style=flat-square" />
-<img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-<img src="https://img.shields.io/badge/Chroma-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-</p>
-
----
-
-### 🚀 Projects
+### 🚀 Featured AI & Machine Learning Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**🔤 [Amharic Handwritten Character Recognition](https://github.com/IsaakAlemu/amharic-character-recognition)**
-
-Dense neural network classifying the 33 base characters of the Amharic (Ge'ez/Fidel) script — an underserved area compared to Latin-script OCR. From-scratch NumPy forward pass, honest baseline comparison, and confusion-matrix analysis tracing errors to real script ambiguity.
-
-**86.3%** test accuracy (vs. 82.6% linear baseline)
-`Python` `Neural Networks` `NumPy`
-
-</td>
-<td width="50%" valign="top">
-
-**🏠 [Addis Ababa Rental Price Prediction](https://github.com/IsaakAlemu/addis-ababa-house_rental-prediction)**
-
-End-to-end pipeline: Selenium scraping across 10 sub-cities (5,046 listings, 99.98% success rate), rigorous cleaning, feature engineering, and a CatBoost model evaluated with 5-fold CV.
-
-**R² 0.826** on log-scale rent prediction
-`Python` `CatBoost` `Selenium` `GitHub Actions`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📧 [Spam Email Detection](https://github.com/IsaakAlemu/spam-email-detection)**
-
-Full ML pipeline: TF-IDF features, comparison of Naive Bayes / Logistic Regression / Linear SVM, deployed as a Streamlit app with live confidence scores.
-
-**97.8%** accuracy, 0.91 F1
-`Python` `scikit-learn` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-**🛒 [Customer Sales & Trend Analysis](https://github.com/IsaakAlemu/customer_sales_analysis)**
-
-Retail transaction analysis: seasonal trends, top-selling products, high-value customers, with data cleaning, EDA, and business recommendations — paired with a 3-page interactive Power BI dashboard (Overview / Products / Customers & Geography) using DAX and time-intelligence calculations.
-
-`Python` `Pandas` `Power BI` `DAX`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎬 [Netflix Content Intelligence](https://github.com/IsaakAlemu/netflix-content-intelligence)**
-
-Netflix catalog trends via SQL and Python — content type distribution, genre patterns, and release trends over time.
-
-`Python` `SQL` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🕸️ <a href="https://github.com/IsaakAlemu/Money-laundering-detection-on-a-transaction-graph">Bitcoin AML & Graph Neural Networks</a></h3>
+      <p><b>PyTorch Geometric · XGBoost · NetworkX · Statistical Drift Diagnosis</b></p>
+      <ul>
+        <li>Comparative benchmark on the <b>Elliptic Data Set</b> (203k transactions, 234k edges across 49 time steps).</li>
+        <li>Evaluated Tabular XGBoost, Hand-built Topological Graph Features, and 2-layer GCNs.</li>
+        <li>Diagnosed adversarial temporal distribution shift at Step 43 ($p < 10^{-65}$ KS test) and model confidence collapse ($0.933 \to 0.040$).</li>
+      </ul>
+      <p align="right">
+        <a href="https://github.com/IsaakAlemu/Money-laundering-detection-on-a-transaction-graph"><b>Explore Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🤖 <a href="https://github.com/IsaakAlemu/amharic-rag-assistant">Amharic RAG AI Assistant</a></h3>
+      <p><b>LangChain · ChromaDB · Vector Search · Low-Resource NLP</b></p>
+      <ul>
+        <li>End-to-end Retrieval-Augmented Generation (RAG) system tailored for <b>Amharic language</b> documents.</li>
+        <li>Custom text chunking, multilingual semantic vector embeddings, and contextual question-answering with LLMs.</li>
+        <li>Interactive Streamlit UI for grounded document search and real-time response generation.</li>
+      </ul>
+      <p align="right">
+        <a href="https://github.com/IsaakAlemu/amharic-rag-assistant"><b>Explore Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">👁️ <a href="https://github.com/IsaakAlemu/amharic-character-recognition">Amharic Script OCR & Vision</a></h3>
+      <p><b>PyTorch / TensorFlow · CNNs · Computer Vision · Image Processing</b></p>
+      <ul>
+        <li>Deep learning classification pipeline for Ethiopic / Fidel handwritten and printed character recognition.</li>
+        <li>Image pre-processing, binarization, noise reduction, and custom Convolutional Neural Network architectures.</li>
+      </ul>
+      <p align="right">
+        <a href="https://github.com/IsaakAlemu/amharic-character-recognition"><b>Explore Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🏡 <a href="https://github.com/IsaakAlemu/addis-ababa-house_rental-prediction">Addis Ababa Rent Price Prediction</a></h3>
+      <p><b>Scikit-Learn · XGBoost · Feature Engineering · Pandas</b></p>
+      <ul>
+        <li>Real estate valuation regression model estimating residential rental prices across Addis Ababa sub-cities.</li>
+        <li>Geospatial cleaning, localized feature engineering, outlier treatment, and cross-validated ensemble models.</li>
+      </ul>
+      <p align="right">
+        <a href="https://github.com/IsaakAlemu/addis-ababa-house_rental-prediction"><b>Explore Repository →</b></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 🎓 Certifications
+### 📊 Data Intelligence & Software Systems
 
-- 🏅 AI Fundamentals & Data Analysis Fundamentals — Udacity (5M Ethiopian Coders program)
-- 🏅 Machine Learning Specialization, Course 1 — Andrew Ng (DeepLearning.AI)
+- **🎬 [Netflix Content Intelligence](https://github.com/IsaakAlemu/netflix-content-intelligence)**: SQL + Python exploratory data analysis uncovering global catalog growth trends, director networks, and genre distribution shifts over time.
+- **🛒 [Retail Customer & Sales Analytics](https://github.com/IsaakAlemu/customer_sales_analysis)**: Customer transaction analytics, RFM segmentation, and seasonal purchase trends across 500k+ records using Pandas and Matplotlib.
+- **📧 [NLP Spam Email Classifier](https://github.com/IsaakAlemu/spam-email-detection)**: Text preprocessing, TF-IDF vectorization, and Naive Bayes/SVM classification for spam filtering.
+- **☕ [Cafeteria Management System](https://github.com/IsaakAlemu/mini-cafeteria-project)**: Java Object-Oriented application implementing menu state, order processing, and transactional billing logic.
 
 ---
 
-<p align="center"><i>Open to internships and collaborations in ML/AI and data science.</i></p>
+### 🛠️ Technical Stack & Tools
+
+<p align="center">
+  <b>Machine Learning & Deep Learning</b><br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch_Geometric-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-025B8C?style=flat-square" />
+  <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square" />
+  <img src="https://img.shields.io/badge/NetworkX-000000?style=flat-square" />
+</p>
+
+<p align="center">
+  <b>Generative AI & NLP</b><br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Data Engineering, Languages & Tools</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🎓 Education & Certifications
+
+- **B.Sc. in Computer Science** — Addis Ababa University (AAU)
+- **INSA Ethiopia Summer Camp** — Emerging Track: AI Engineering
+- **Machine Learning Specialization** — *DeepLearning.AI & Stanford Online (Coursera)*
+  - ✅ **Course 1**: *Supervised Machine Learning: Regression and Classification* (Linear/Logistic Regression, Cost Functions, Regularization)
+  - ✅ **Course 2**: *Advanced Learning Algorithms* (Multi-layer Neural Networks, Decision Trees, Random Forests, XGBoost)
+  - 🔄 **Course 3**: *Unsupervised Learning, Recommenders, Reinforcement Learning* (In Progress)
+
+---
+
+<div align="center">
+  <sub>⭐ Open to machine learning internships, research collaborations, and software engineering opportunities.</sub>
+</div>
