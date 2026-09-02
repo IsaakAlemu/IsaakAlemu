@@ -125,7 +125,6 @@
   <b>Generative AI, NLP & Search</b><br/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
@@ -139,7 +138,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
@@ -148,8 +146,7 @@
 ### 📈 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaakAlemu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Isaak's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaakAlemu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=IsaakAlemu&theme=tokyonight&hide_border=true" alt="Isaak's GitHub Streak" />
 </div>
 
 ---
@@ -161,7 +158,7 @@
 - **Machine Learning Specialization** — *DeepLearning.AI & Stanford Online (Coursera)*
   - ✅ **Course 1**: *Supervised Machine Learning: Regression and Classification* (Linear/Logistic Regression, Cost Functions, Regularization)
   - ✅ **Course 2**: *Advanced Learning Algorithms* (Multi-layer Neural Networks, Decision Trees, Random Forests, XGBoost)
-  - ✅ **Course 3**: *Unsupervised Learning, Recommenders, Reinforcement Learning* (Anomaly Detection, PCA, K-Means, Collaborative Filtering)
+  - 🔄 **Course 3**: *Unsupervised Learning, Recommenders, Reinforcement Learning* (In Progress — Week 1: Anomaly Detection & Clustering)
 
 ---
 
