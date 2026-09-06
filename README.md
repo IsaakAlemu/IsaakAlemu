@@ -155,10 +155,8 @@
 
 - **B.Sc. in Computer Science** — Addis Ababa University (AAU)
 - **INSA Ethiopia Summer Camp** — Emerging Track: AI Engineering
-- **Machine Learning Specialization** — *DeepLearning.AI & Stanford Online (Coursera)*
-  - ✅ **Course 1**: *Supervised Machine Learning: Regression and Classification* (Linear/Logistic Regression, Cost Functions, Regularization)
-  - ✅ **Course 2**: *Advanced Learning Algorithms* (Multi-layer Neural Networks, Decision Trees, Random Forests, XGBoost)
-  - ✅ **Course 3**: *Unsupervised Learning, Recommenders, Reinforcement Learning* (Anomaly Detection, Recommender Systems, PCA, Reinforcement Learning)
+- **Machine Learning Specialization** — *DeepLearning.AI & Stanford Online (Coursera)* ✅
+  Regression & classification, neural networks, decision trees/XGBoost, unsupervised learning, recommender systems, and reinforcement learning
 
 ---
 
