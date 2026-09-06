@@ -158,7 +158,7 @@
 - **Machine Learning Specialization** — *DeepLearning.AI & Stanford Online (Coursera)*
   - ✅ **Course 1**: *Supervised Machine Learning: Regression and Classification* (Linear/Logistic Regression, Cost Functions, Regularization)
   - ✅ **Course 2**: *Advanced Learning Algorithms* (Multi-layer Neural Networks, Decision Trees, Random Forests, XGBoost)
-  - 🔄 **Course 3**: *Unsupervised Learning, Recommenders, Reinforcement Learning* (In Progress — Week 1: Anomaly Detection & Clustering)
+  - ✅ **Course 3**: *Unsupervised Learning, Recommenders, Reinforcement Learning* (Anomaly Detection, Recommender Systems, PCA, Reinforcement Learning)
 
 ---
 
