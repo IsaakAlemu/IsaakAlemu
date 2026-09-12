@@ -21,18 +21,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🌾 <a href="https://github.com/IsaakAlemu/amharic-agri-advisor">Amharic Agricultural Advisory Assistant</a></h3>
-      <p><b>Hybrid RAG (Dense + BM25 + RRF) · Guardrails · Groq LLM · Streamlit</b></p>
-      <ul>
-        <li>Bilingual (Amharic/English) RAG system delivering agronomic advice across <b>9 Ethiopian agricultural domains</b> (Teff, Maize, Coffee, Wheat, etc.).</li>
-        <li>Architected <b>Hybrid RRF Retrieval</b> (<code>multilingual-e5-small</code> + BM25 with Ethiopic normalization), prompt-injection guards, and out-of-scope crop refusal.</li>
-        <li>Achieved <b>96.3% Top-3 retrieval accuracy</b> and 100% out-of-scope refusal on held-out naturalistic benchmark evaluation.</li>
-      </ul>
-      <p align="right">
-        <a href="https://github.com/IsaakAlemu/amharic-agri-advisor"><b>Explore Repository →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="left">🕸️ <a href="https://github.com/IsaakAlemu/Money-laundering-detection-on-a-transaction-graph">Bitcoin AML & Graph Neural Networks</a></h3>
       <p><b>PyTorch Geometric · GCN · XGBoost · NetworkX · Drift Diagnosis</b></p>
       <ul>
@@ -44,8 +32,6 @@
         <a href="https://github.com/IsaakAlemu/Money-laundering-detection-on-a-transaction-graph"><b>Explore Repository →</b></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="left">🛡️ <a href="https://github.com/IsaakAlemu/fraud-anomaly-detection">FastAPI Fraud & Gaussian Anomaly Engine</a></h3>
       <p><b>FastAPI · Docker · Pydantic · Density Estimation · Pytest</b></p>
@@ -58,6 +44,8 @@
         <a href="https://github.com/IsaakAlemu/fraud-anomaly-detection"><b>Explore Repository →</b></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="left">🤖 <a href="https://github.com/IsaakAlemu/amharic-rag-assistant">Amharic RAG AI Assistant</a></h3>
       <p><b>LangChain · ChromaDB · Vector Search · Low-Resource NLP</b></p>
@@ -70,8 +58,6 @@
         <a href="https://github.com/IsaakAlemu/amharic-rag-assistant"><b>Explore Repository →</b></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="left">👁️ <a href="https://github.com/IsaakAlemu/amharic-character-recognition">Amharic Script OCR & Vision</a></h3>
       <p><b>PyTorch / TensorFlow · CNNs · Computer Vision · Image Processing</b></p>
@@ -83,6 +69,8 @@
         <a href="https://github.com/IsaakAlemu/amharic-character-recognition"><b>Explore Repository →</b></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="left">🏡 <a href="https://github.com/IsaakAlemu/addis-ababa-house_rental-prediction">Addis Ababa Rent Price Prediction</a></h3>
       <p><b>Scikit-Learn · XGBoost · Feature Engineering · Pandas</b></p>
