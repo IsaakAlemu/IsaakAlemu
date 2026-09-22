@@ -33,12 +33,12 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🛡️ <a href="https://github.com/IsaakAlemu/fraud-anomaly-detection">FastAPI Fraud & Gaussian Anomaly Engine</a></h3>
-      <p><b>FastAPI · Docker · Pydantic · Density Estimation · Pytest</b></p>
+      <h3 align="left">🛡️ <a href="https://github.com/IsaakAlemu/fraud-anomaly-detection">Fraud Detection: MLOps-Instrumented Dual-Model API</a></h3>
+      <p><b>MLflow · Optuna · Evidently AI · FastAPI · Docker</b></p>
       <ul>
-        <li>Dual-model risk scoring API combining an unsupervised <b>from-scratch Gaussian density estimator</b> in log-space with a supervised baseline classifier.</li>
-        <li>Automated artifact serialization, custom probability thresholds, and full unit/integration test suite.</li>
-        <li>Containerized for production deployment with Docker and interactive Swagger OpenAPI documentation.</li>
+        <li>Dual-model risk API comparing a from-scratch Gaussian anomaly engine against a supervised baseline, with honest comparative benchmarking (PR-AUC, ROC-AUC).</li>
+        <li>Full MLOps instrumentation: MLflow experiment tracking, Optuna Bayesian hyperparameter tuning, and Evidently AI data drift monitoring.</li>
+        <li>Containerized and CI-tested, 18/18 tests passing.</li>
       </ul>
       <p align="right">
         <a href="https://github.com/IsaakAlemu/fraud-anomaly-detection"><b>Explore Repository →</b></a>
@@ -47,12 +47,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🤖 <a href="https://github.com/IsaakAlemu/amharic-rag-assistant">Amharic RAG AI Assistant</a></h3>
-      <p><b>LangChain · ChromaDB · Vector Search · Low-Resource NLP</b></p>
+      <h3 align="left">🤖 <a href="https://github.com/IsaakAlemu/amharic-rag-assistant">Amharic RAG: Hybrid Retrieval for a Low-Resource Language</a></h3>
+      <p><b>Hybrid Retrieval · ChromaDB · BM25 · Adversarial Guardrails</b></p>
       <ul>
-        <li>End-to-end Retrieval-Augmented Generation (RAG) pipeline tailored for <b>Amharic language</b> documents.</li>
-        <li>Custom text chunking, multilingual semantic vector embeddings, and contextual question-answering with LLMs.</li>
-        <li>Interactive Streamlit UI for grounded document search and real-time response generation.</li>
+        <li>Production-style RAG system combining dense embeddings and custom Ethiopic BM25 via Reciprocal Rank Fusion — 92.10% Hit@3 on a 329-question holdout benchmark.</li>
+        <li>Bilingual prompt-injection defense, grounded refusal on out-of-scope questions, and an honestly-documented re-ranker investigation (tested, found infeasible, disabled — not hidden).</li>
+        <li>Live deployed demo with real-time streaming and inline source citations.</li>
       </ul>
       <p align="right">
         <a href="https://github.com/IsaakAlemu/amharic-rag-assistant"><b>Explore Repository →</b></a>
@@ -71,6 +71,18 @@
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🕵️ <a href="https://github.com/IsaakAlemu/financial_risk_triage_agent">Financial Risk Triage Agent</a></h3>
+      <p><b>LangGraph · ReAct Agent · Pydantic v2 · Structured Output</b></p>
+      <ul>
+        <li>Autonomous multi-step financial compliance agent using LangGraph's cyclic ReAct architecture with dynamic tool-calling across KYC, velocity, and sanctions databases.</li>
+        <li>Dual-mode design: live LLM reasoning (Gemini/Groq) with a zero-dependency deterministic fallback engine for guaranteed uptime.</li>
+        <li>Auditable JSON execution traces for every verdict, with 23/23 tests passing across schema, tool, and graph-flow coverage.</li>
+      </ul>
+      <p align="right">
+        <a href="https://github.com/IsaakAlemu/financial_risk_triage_agent"><b>Explore Repository →</b></a>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="left">🏡 <a href="https://github.com/IsaakAlemu/addis-ababa-house_rental-prediction">Addis Ababa Rent Price Prediction</a></h3>
       <p><b>Scikit-Learn · XGBoost · Feature Engineering · Pandas</b></p>
