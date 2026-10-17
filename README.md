@@ -64,7 +64,7 @@
       <ul>
         <li>Risk API comparing a from-scratch Gaussian anomaly model against a supervised baseline, with honest benchmarking (PR-AUC, ROC-AUC).</li>
         <li>MLflow experiment tracking, Optuna hyperparameter tuning, and Evidently AI drift monitoring.</li>
-        <li>Containerized and CI-tested, 18/18 tests passing.</li>
+        <li>Containerized with Docker and covered by 18 automated tests.</li>
       </ul>
       <p align="right">
         <a href="https://github.com/IsaakAlemu/fraud-anomaly-detection"><b>Explore Repository →</b></a>
@@ -115,7 +115,7 @@
       <p><b>FastAPI · NumPy · Pillow · Docker · pytest</b></p>
       <ul>
         <li>K-means implemented from scratch (vectorized, multi-restart) to extract dominant color palettes from uploaded images.</li>
-        <li>Also returns a web-optimized compressed image (73–77% size reduction on test photos).</li>
+        <li>Also returns a web-optimized compressed image (73% size reduction on a sample photo).</li>
         <li>24 tests, including regression tests for bugs found along the way; Dockerized.</li>
       </ul>
       <p align="right">
