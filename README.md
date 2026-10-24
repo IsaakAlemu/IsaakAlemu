@@ -5,6 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaak_Alemu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaak-alemu-492414329)
 [![GitHub](https://img.shields.io/badge/GitHub-IsaakAlemu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaakAlemu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-isaak--alemu--portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://isaak-alemu-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alemuisaak@gmail.com)
 
 <p align="center">
